@@ -1,0 +1,9 @@
+# python-telegram-bot>=22.0
+qrcode[pil]>=8.0
+opencv-python-headless>=4.5.0
+yt-dlp>=2023.0.0
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+pillow>=9.0.0
+python-dotenv>=0.15.0
+
